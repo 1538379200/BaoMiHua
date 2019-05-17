@@ -1,11 +1,8 @@
 <ServiceData>{
 ["Update"]={
-["DownloadUrl"]="https://www.lanzous.com/i40sj4f",
-["ChangeLog"]="1、增加磁力解析\
-2、悬浮按钮加入历史记录和收藏夹功能\
-3、软件实现线上自动检测更新",
-["Version"]="6",
-},
-["Notice"]={
+["DownloadUrl"]="https://www.lanzous.com/i46uxve",
+["ChangeLog"]="1、修复点击使用说明弹出的错误框\
+2、软件启动时的检查更新可以取消，直接点击“退出”即可，不再强制进行更新",
+["Version"]="7",
 },
 }</ServiceData>
